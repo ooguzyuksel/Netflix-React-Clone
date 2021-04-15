@@ -2,17 +2,24 @@
 
 ---
 
-Web site is fully responsive.
+## Topics 
 
-TMDB Database has been used to get information list.
+- TMDB Database
+- Responsive Design
+- Trailer Autoplay Screen
+- Various type of npm packages to Fetch Data and Movie Trailers.
+- Deploy the app live on Firebase
 
-Also, Various type of npm packages has been used to Fetch Data and Movie Trailers.
+---
 
-For a deployment, Firebase has been used on backend side.
+## Web Site Link: [NETFLIX - Click Here](https://netflix-clone-374f2.web.app/)
 
 ---
 
-## Web Site Link: [NETFLIX](https://netflix-clone-374f2.web.app/)
+## Author 
 
+Oguzhan YUKSEL
 
----
+### About Me
+
+### [LinkedIn](https://www.linkedin.com/in/oguzhan-yuksel-942a62201/)
